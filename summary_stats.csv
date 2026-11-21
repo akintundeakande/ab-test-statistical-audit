@@ -1,0 +1,9 @@
+metric,value
+srm_chi2_p,0.000346619351134667
+conversion_uplift_pp,0.2377888739517317
+conversion_z_p,0.3767200486080404
+revenue_welch_p,0.4557823971481424
+revenue_mannwhitney_p,0.4231235027281438
+power_at_observed_uplift,0.14093014488276062
+mde_pp_at_80pct_power,0.7497309338970386
+sessions_per_arm_needed,248461.0
